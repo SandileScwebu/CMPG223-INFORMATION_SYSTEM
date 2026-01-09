@@ -1,2 +1,3 @@
 TO OPEN APPLICATION:
 COPY FILE TO DESKTOP
+Login Password: admin 
